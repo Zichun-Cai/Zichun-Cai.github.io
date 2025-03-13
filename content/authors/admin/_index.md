@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 蔡梓淳
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Cai Zichun Jason
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zichun Cai
+last_name: Jason
 
 # Status emoji
 status:
@@ -20,134 +20,132 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: CS Master Graduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: PolyU IMCL
+    url: https://www4.comp.polyu.edu.hk/~labimcl/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zcaiao@connect.ust.hk'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/caizch12?igsh=cDBqaHR0NHp3MDh1
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Zichun-Cai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/梓淳-蔡-61b650249/
+  - icon: academicons/cv
+    url: https://www.overleaf.com/download/project/67bf71831123adbeb11c4a46/build/1958fdca18b-63b44fecd439d2ae/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n2d-b-f-8skg&enable_pdf_caching=true&popupDownload=true
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed System
+  - Distributed Machine Learning
+  - Blockchain
+  - Computer Network
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. in Information Technology
+    institution: HKUST, Hong Kong, P.R. China
+    date_start: 2022-08-01
+    date_end: 2023-12-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 3.5/4.3
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Relevant Course: 
+      - Advanced Algorithm
+      - Advanced Cloud Computing
+      - Advanced Digital Design
+      - Data Mining and Knowledge Discovery
+      - Computer Network
+
+  - area: B.Eng in Information Engineering
+    institution: SYSU, Guangzhou, P.R. China
+    date_start: 2018-09-01
+    date_end: 2022-07-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.7/4.0
+      Minor in Mathmatics and Applied Mathmatics
+      Transferred from School of Chemical Engineering and Technology (Sep. 2018 - Jul. 2020)
+
+      Relevant Course:
+      - Computer Network
+      - Information Security
+      - Wireless Comunication Technology
+      - Stocastic Process & Statistical Signal Processing
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Research Assistant in Blockchain
+    company_name: PolyU IMCL, Supervised By Prof.Cao Jiannong
+    company_url: https://www4.comp.polyu.edu.hk/~labimcl/
+    company_logo: polyu-imcl.png
+    date_start: 2024-04-01
+    date_end: 2025-04-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Research on Blockchain Data Sharing, Distributed LLM Serving System, Decentralized Machine Learning
+      - Design, Develop and Deliver Blockchain Project for Third Party
+      - Help organized academic conference, including Middleware 2024
+  - position: Research Assistant in Full-Stack Development(Intern)
+    company_name: Skyland Innovation Co, Ltd.
+    company_url: https://www.futureis3d.com/
+    company_logo: skyland-innovation.png
+    date_start: 2023-06-01
+    date_end: 2023-09-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Full-stack development for OA system
+      - Development, Testing, Production Environment Setup and Maintanence
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Cloud Native Development
+        description: Kubernetes, Docker, Golang
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+        icon: cloud
+      - name: Blockchain Development
+        description: Hyperledger Fabric, Ethereum, Solana
+        percent: 80
+        icon: ethereum
+      - name: Full-Stack Web Development
+        description: Golang & React.JS, Vue.JS & MySQL, Redis
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Cat
+        description: American Shorthair, British Shorthair, Felis Catus
         percent: 80
-        icon: camera
+        icon: cat
+      - name: Football
+        description: Started from 2012(UEFA Euro)
+        percent: 70
+        icon: football
+      - name: Music(Jazz, R&B)
+        description: 'Saxophone'
+        percent: 70
+        icon: music
 
 languages:
-  - name: English
+  - name: Mandarin(Chinese)
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Cantonese(Chinese)
+    percent: 80
+  - name: English
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +181,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cai Zichun Jason is a research assistant in HKPolyU IMCL. His research interests including distributed system, computer network, distributed machine learning and Blockchain.
