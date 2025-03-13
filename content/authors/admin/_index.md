@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/梓淳-蔡-61b650249/
   - icon: academicons/cv
-    url: https://www.overleaf.com/download/project/67bf71831123adbeb11c4a46/build/1958fdca18b-63b44fecd439d2ae/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n2d-b-f-8skg&enable_pdf_caching=true&popupDownload=true
+    url: https://www.overleaf.com/read/cfspwkjksnjt#c9abb9
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
@@ -72,9 +72,9 @@ education:
     date_start: 2018-09-01
     date_end: 2022-07-01
     summary: |
-      GPA: 3.7/4.0
-      Minor in Mathmatics and Applied Mathmatics
-      Transferred from School of Chemical Engineering and Technology (Sep. 2018 - Jul. 2020)
+      GPA: 3.7/4.0  
+      Minor in Mathmatics and Applied Mathmatics  
+      Major in Chemical Engineering and Technology (Sep. 2018 - Jul. 2020)
 
       Relevant Course:
       - Computer Network
@@ -137,7 +137,7 @@ skills:
       - name: Music(Jazz, R&B)
         description: 'Saxophone'
         percent: 70
-        icon: music
+        icon: music.svg
 
 languages:
   - name: Mandarin(Chinese)
